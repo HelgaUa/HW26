@@ -9,6 +9,7 @@ class Button extends Component {
                     className={`btn ${className}`}
                     onClick={onClick}>
                     {name}
+
             </button>
         )
     }
